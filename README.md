@@ -270,13 +270,18 @@ Networking
 
 # 🐍 `THE CONTRIBUTION GARDEN`
 
-### Every little square is a day I showed up.
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="96%" alt="Contribution activity"/>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub contribution snake"/>
+CONTRIBUTION SIGNAL
 
-<br>
+LOW ─────────────────────────────── HIGH
+ ░       ▒       ▓       █       ███
+
+</div>
 
 `░` Quiet    `▒` Active    `▓` Productive    `█` Deep Work
 
