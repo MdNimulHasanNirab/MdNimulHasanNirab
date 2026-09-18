@@ -22,7 +22,7 @@
 
 # ✦ `HELLO, WORLD!`
 
-### I'm **Nimul** — a CSE student who loves building things for the web.
+### I'm **NH NIRAB** — a CSE student who loves building things for the web.
 
 </div>
 
@@ -54,8 +54,7 @@ I learn by building real projects, experimenting with new technologies, making m
 
 <td width="45%" align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=ffffff00&color=7C3AED&line=00C853&point=FF6F00&area=true&hide_border=true" width="100%"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MdNimulHasanNirab&bg_color=ffffff00&color=7C3AED&line=00C853&point=FF6F00&area=true&hide_border=true" width="100%" alt="Nimul's GitHub Activity"/>
 </td>
 </tr>
 </table>
