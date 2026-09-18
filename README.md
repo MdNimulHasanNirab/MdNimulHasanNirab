@@ -30,7 +30,7 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="100%" valign="top">
 
 ### 👋 A little about me
 
@@ -250,9 +250,7 @@ Networking
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" width="40%"/>
 
 <br><br>
 
