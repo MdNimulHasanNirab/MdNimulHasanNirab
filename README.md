@@ -1,287 +1,290 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="MD. Nimul Hasan Nirab Banner" width="100%"/>
+<img src="./assets/banner.png" width="100%" alt="MD. Nimul Hasan Nirab"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=800&lines=Initializing+NIRAB.OS...;CSE+Student+%2F%2F+Web+Developer;Exploring+Full-Stack+Development;Exploring+Cyber+Security;System+Status%3A+Learning+%7C+Building+%7C+Breaking;Welcome+to+my+digital+workspace." alt="Typing Animation"/>
+
+</div>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+MD.+Nimul+Hasan+Nirab+%F0%9F%91%8B;CSE+Student+%7C+Web+Developer;Exploring+Full-Stack+Development;Exploring+Cyber+Security;Building%2C+Learning+%26+Improving+Every+Day" alt="Typing SVG" />
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```javascript
-const nimul = {
-    name: "MD. Nimul Hasan Nirab",
-    role: "CSE Student & Web Developer",
-    currentlyLearning: [
-        "Full-Stack Development",
-        "Cyber Security"
-    ],
-    mindset: "Learn → Build → Break → Fix → Repeat",
-    goal: "Become a professional software developer",
-};
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                         N I R A B . O S                      │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  USER       : MD. NIMUL HASAN NIRAB                          │
+│  ROLE       : CSE STUDENT / WEB DEVELOPER                   │
+│  LOCATION   : BANGLADESH                                    │
+│  STATUS     : ONLINE                                         │
+│  MODE       : BUILD                                          │
+│                                                              │
+│  CURRENTLY EXPLORING                                         │
+│  ├── Full-Stack Development                                  │
+│  └── Cyber Security                                          │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 ```
 
-I'm a **Computer Science & Engineering student** who enjoys building things for the web and learning how software works behind the scenes.
+<br>
 
-Currently, I'm exploring **Full-Stack Development** and **Cyber Security**, while improving my problem-solving and development skills through projects and practice.
+## `01 // IDENTITY`
 
-> 💡 I don't want to just learn how to use technology — I want to understand how it works.
+I am **MD. Nimul Hasan Nirab**, a Computer Science & Engineering student and web developer.
 
----
+I'm currently exploring the world between **building applications** and **understanding how those applications can be secured**.
 
-## 🚀 What I'm Exploring
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 Full-Stack Development
-
-* Frontend Development
-* React & Next.js
-* Backend Development
-* REST APIs
-* Databases
-* Authentication
-* AI-powered applications
-
-</td>
-
-<td width="50%">
-
-### 🔐 Cyber Security
-
-* Web Security
-* Networking
-* Linux
-* Authentication & Authorization
-* OWASP concepts
-* Security fundamentals
-* Ethical hacking concepts
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Technologies & Tools
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-</p>
-
-### Backend & Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
-</p>
-
-### Tools & Environment
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman" />
-</p>
-
----
-
-## 🧠 Currently Learning
+I enjoy learning by creating things, breaking things, fixing them, and then trying to understand *why they broke in the first place.*
 
 ```text
-Frontend
-████████████████░░░░ 80%
-
-JavaScript
-███████████████░░░░░ 75%
-
-TypeScript
-████████████░░░░░░░░ 60%
-
-React
-████████████░░░░░░░░ 60%
-
-Next.js
-████████░░░░░░░░░░░░ 40%
-
-Backend
-███████░░░░░░░░░░░░░ 35%
-
-Cyber Security
-██████░░░░░░░░░░░░░░ 30%
+┌─ CURRENT STATE ──────────────────────────────────────────┐
+│                                                          │
+│  Learning      ███████████████████░░░░                   │
+│  Building      ████████████████░░░░░                    │
+│  Experimenting █████████████████████░                   │
+│  Debugging     ████████████████████████                  │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 ```
 
-> These aren't "finished" percentages — they're just my current learning journey.
+---
+
+## `02 // SYSTEM INTERESTS`
+
+```text
+                         ┌──────────────────┐
+                         │     NIRAB.OS     │
+                         └────────┬─────────┘
+                                  │
+              ┌───────────────────┼───────────────────┐
+              │                   │                   │
+              ▼                   ▼                   ▼
+       ┌─────────────┐     ┌─────────────┐     ┌─────────────┐
+       │   FRONTEND  │     │   BACKEND   │     │   SECURITY  │
+       └──────┬──────┘     └──────┬──────┘     └──────┬──────┘
+              │                   │                   │
+              ▼                   ▼                   ▼
+          React / JS          APIs / DBs          Web Security
+          Next.js             Node.js             Networking
+          HTML / CSS          Server Logic        Linux
+```
+
+### `> frontend`
+
+`HTML` · `CSS` · `JavaScript` · `TypeScript` · `React` · `Next.js`
+
+### `> backend`
+
+`Node.js` · `Express` · `REST APIs` · `MongoDB` · `MySQL`
+
+### `> security`
+
+`Linux` · `Networking` · `Web Security` · `OWASP` · `Security Fundamentals`
+
+### `> tools`
+
+`Git` · `GitHub` · `VS Code` · `Postman` · `Figma`
 
 ---
 
-## 💻 My Development Philosophy
+## `03 // DEVELOPMENT PHILOSOPHY`
 
 ```text
-        ┌───────────────────────┐
-        │       LEARN           │
-        └───────────┬───────────┘
+             ┌─────────────┐
+             │    LEARN    │
+             └──────┬──────┘
                     ↓
-        ┌───────────────────────┐
-        │       BUILD           │
-        └───────────┬───────────┘
+             ┌─────────────┐
+             │    BUILD    │
+             └──────┬──────┘
                     ↓
-        ┌───────────────────────┐
-        │       BREAK           │
-        └───────────┬───────────┘
+             ┌─────────────┐
+             │    BREAK    │
+             └──────┬──────┘
                     ↓
-        ┌───────────────────────┐
-        │        DEBUG          │
-        └───────────┬───────────┘
+             ┌─────────────┐
+             │   DEBUG     │
+             └──────┬──────┘
                     ↓
-        ┌───────────────────────┐
-        │       IMPROVE         │
-        └───────────┬───────────┘
+             ┌─────────────┐
+             │  UNDERSTAND │
+             └──────┬──────┘
+                    ↓
+             ┌─────────────┐
+             │   REBUILD   │
+             └──────┬──────┘
                     │
-                    └──────────→ REPEAT
+                    └───────────────↻
 ```
 
-I believe the best way to learn development is to **build real things, make mistakes, debug them, and build again.**
+> **I don't measure progress by how much code I can write.
+> I measure it by how much I understand.**
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 My Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-## 📈 My Coding Journey
+## `04 // ACTIVE PROCESSES`
 
 ```text
-CSE Student
-     │
-     ├── HTML / CSS
-     │      ↓
-     ├── JavaScript
-     │      ↓
-     ├── TypeScript
-     │      ↓
-     ├── React
-     │      ↓
-     ├── Next.js
-     │      ↓
-     ├── Backend
-     │      ↓
-     ├── Full-Stack Development
-     │      ↓
-     └── Cyber Security
-            ↓
-       🚀 Keep Building
+[RUNNING]
+
+PID 001   frontend.exe       ████████████████░░░░
+PID 002   javascript.exe     ███████████████░░░░░
+PID 003   react.exe          ████████████░░░░░░░░
+PID 004   nextjs.exe         ████████░░░░░░░░░░░░
+PID 005   backend.exe        ███████░░░░░░░░░░░░░
+PID 006   security.exe       ██████░░░░░░░░░░░░░░
+
+STATUS: All processes learning...
 ```
 
 ---
 
-## 🌱 Currently Working On
+## `05 // PROJECT LAB`
 
-* 🔨 Building web development projects
-* ⚛️ Improving my React skills
-* 🚀 Exploring Next.js
-* 🤖 Exploring AI-powered applications
-* 🔐 Learning Cyber Security fundamentals
-* 🧩 Improving problem-solving skills
-* 📚 Learning something new every day
-
----
-
-## 🎯 2026 Goals
-
-* [ ] Become confident with React
-* [ ] Build full-stack applications
-* [ ] Learn backend development deeply
-* [ ] Build and deploy real-world projects
-* [ ] Learn more about Cyber Security
-* [ ] Contribute to open-source projects
-* [ ] Build something people actually use
-
----
-
-## 💭 A Little More About Me
+I learn fastest when there is something to build.
 
 ```text
-When I don't understand something:
-        ↓
-I try it
-        ↓
-It breaks
-        ↓
-I search
-        ↓
-I debug
-        ↓
-I understand
-        ↓
-I build it again
+┌────────────────────────────────────────────────────────────┐
+│ PROJECT LAB                                                 │
+├────────────────────────────────────────────────────────────┤
+│                                                            │
+│  [01] WEB APPLICATIONS                                     │
+│       Building interfaces and experimenting with React.   │
+│                                                            │
+│  [02] FULL-STACK SYSTEMS                                  │
+│       Learning how frontend, backend and databases        │
+│       communicate with each other.                        │
+│                                                            │
+│  [03] AI EXPERIMENTS                                      │
+│       Exploring AI-powered applications and workflows.   │
+│                                                            │
+│  [04] SECURITY LAB                                        │
+│       Learning the fundamentals of secure web systems.   │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
 ```
-
-That's basically my developer journey. 😄
 
 ---
 
-## 📫 Connect With Me
+## `06 // GITHUB ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" width="95%" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" width="70%" />
+
+</div>
+
+---
+
+## `07 // CONTRIBUTION MATRIX`
+
+<div align="center">
+
+```text
+             CONTRIBUTION MATRIX // ACCESS GRANTED
+```
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake"/>
+
+```text
+                    ↑
+              Every square
+              tells a story.
+                    ↑
+             Keep pushing code.
+```
+
+</div>
+
+---
+
+## `08 // CURRENT MISSION`
+
+```text
+MISSION STATUS
+────────────────────────────────────────────────────
+
+[✓] Learn modern frontend development
+[✓] Build projects with JavaScript
+[✓] Explore React
+[~] Become comfortable with Next.js
+[~] Build full-stack applications
+[~] Learn backend architecture
+[~] Understand web security
+[ ] Build production-level applications
+[ ] Contribute to open source
+[ ] Keep learning...
+
+────────────────────────────────────────────────────
+MISSION: IN PROGRESS
+```
+
+---
+
+## `09 // TERMINAL`
+
+```bash
+$ whoami
+
+MD. Nimul Hasan Nirab
+
+$ cat interests.txt
+
+> Full-Stack Development
+> Web Development
+> Cyber Security
+> Artificial Intelligence
+> Problem Solving
+
+$ echo $MINDSET
+
+Learn → Build → Break → Debug → Understand → Repeat
+
+$ ./future.sh
+
+Becoming a better developer...
+```
+
+---
+
+## `10 // CONNECT`
 
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### ⚡ Keep Learning. Keep Building. Keep Breaking Things.
+```text
+┌──────────────────────────────────────────────────┐
+│                                                  │
+│       "Still learning. Still building."         │
+│                                                  │
+│                  — Nimul                         │
+│                                                  │
+└──────────────────────────────────────────────────┘
+```
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-
-<br><br>
-
-**Thanks for visiting my profile! 🚀**
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=SYSTEM+VISITS&color=00ff9c&style=flat-square" />
 
 </div>
