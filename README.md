@@ -27,41 +27,63 @@
 </div>
 
 <br>
+<br>
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=7C3AED&center=true&vCenter=true&width=700&lines=Building+for+the+web+%F0%9F%8C%90;Learning+Full-Stack+Development+%F0%9F%9A%80;Exploring+Cyber+Security+%F0%9F%94%90;Learning+something+new+every+day+%E2%9C%A8" />
 
-### 👋 A little about me
-
-I'm **MD. Nimul Hasan Nirab**, a Computer Science & Engineering student and web developer.
-
-My current journey is taking me from **frontend development → full-stack development → AI → cyber security**.
-
-I learn by building real projects, experimenting with new technologies, making mistakes, and figuring out how to fix them.
+</div>
 
 <br>
 
-**Currently exploring**
+<table>
+<tr>
 
-🌐 Full-Stack Development
-🤖 AI-powered applications
-🔐 Cyber Security
-🧠 Problem Solving
-⚙️ Backend Architecture
+<td width="60%" valign="top">
+
+## 🧑‍💻 A little about me
+
+I'm **MD. Nimul Hasan Nirab**, a Computer Science & Engineering student and web developer.
+
+My current journey is taking me from:
+
+**Frontend Development → Full-Stack Development → AI → Cyber Security**
+
+I learn by building real projects, experimenting with technologies, making mistakes, and figuring out how to fix them.
+
+<br>
+
+### 🔭 Currently exploring
+
+🌐 **Full-Stack Development**  
+🤖 **AI-powered applications**  
+🔐 **Cyber Security**  
+🧩 **Problem Solving**  
+⚙️ **Backend Architecture**
 
 </td>
 
-<td width="45%" align="center">
+<td width="40%" valign="top">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MdNimulHasanNirab&bg_color=ffffff00&color=7C3AED&line=00C853&point=FF6F00&area=true&hide_border=true" width="100%" alt="Nimul's GitHub Activity"/>
-</td>
-</tr>
-</table>
+## ⚡ At a glance
 
----
-
-<div align="center">
+```text
+┌──────────────────────────┐
+│                          │
+│  NAME                    │
+│  MD. Nimul Hasan Nirab   │
+│                          │
+│  ROLE                    │
+│  CSE Student             │
+│  Web Developer           │
+│                          │
+│  LEARNING                │
+│  Full-Stack Development  │
+│  Cyber Security          │
+│                          │
+│  STATUS                  │
+│  Always Learning         │
+│                          │
+└──────────────────────────┘
 
 # 🎨 `MY DIGITAL TOOLBOX`
 
