@@ -351,7 +351,7 @@ Web security
 
 <br>
 
-> ### **Don't just copy the code.**
+> ### **Explore  the code.**
 >
 > ### **Understand the code.**
 
@@ -406,30 +406,134 @@ Web security
 <div align="center">
 
 # 💬 `LET'S CONNECT`
+<div align="center">
+
+# ✦ `LET'S BUILD SOMETHING`
+
+### Have an idea, project, or just want to talk tech?
 
 <br>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+<a href="https://github.com/MdNimulHasanNirab">
+
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+
+<br><br>
+
+<b>GITHUB</b>
+
+<br>
+
+<sub>My code & projects</sub>
+
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</td>
+
+<td align="center" width="33%">
+
+<a href="https://www.linkedin.com/in/md-nimul-hasan-6a7133365">
+
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+
+<br><br>
+
+<b>LINKEDIN</b>
+
+<br>
+
+<sub>Let's connect professionally</sub>
+
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</td>
+
+<td align="center" width="33%">
+
+<a href="mailto:nirabhasan50@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+
+<br><br>
+
+<b>EMAIL</b>
+
+<br>
+
+<sub>[nirabhasan50@gmail.com](mailto:nirabhasan50@gmail.com)</sub>
+
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+
+<br>
+
+```text
+╭────────────────────────────────────────────────────────────╮
+│                                                            │
+│   MD. NIMUL HASAN NIRAB                                    │
+│                                                            │
+│   CSE STUDENT  •  WEB DEVELOPER  •  BUILDER                │
+│                                                            │
+│   ──────────────────────────────────────────────────────    │
+│                                                            │
+│   🌐  github.com/MdNimulHasanNirab                        │
+│   💼  linkedin.com/in/md-nimul-hasan-6a7133365             │
+│   ✉️  nirabhasan50@gmail.com                               │
+│                                                            │
+╰────────────────────────────────────────────────────────────╯
+```
+
+<br>
+
+### `AVAILABLE FOR`
+
+`COLLABORATION`   `OPEN SOURCE`   `WEB PROJECTS`   `TECH DISCUSSIONS`
+
+<br><br>
+
+<a href="https://github.com/MdNimulHasanNirab">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/md-nimul-hasan-6a7133365">
+<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:nirabhasan50@gmail.com">
+<img src="https://img.shields.io/badge/SEND%20ME%20AN%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VISITORS&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=MdNimulHasanNirab&label=PROFILE%20VISITS&color=7C3AED&style=for-the-badge"/>
 
 <br><br>
+
+<sub>
+
+**Built with curiosity • powered by coffee • improved by debugging**
+
+</sub>
+
+</div>
+
 
 ### `Thanks for entering my corner of GitHub.`
 
-**— MD. Nimul Hasan Nirab**
+**— NH Nirab**
 
 <br>
 
